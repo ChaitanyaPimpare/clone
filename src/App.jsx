@@ -49,7 +49,7 @@ function AppContent() {
         </div>
       )}
 
-      {!loading && <Footer />}
+
     </>
   );
 }
